@@ -1,5 +1,5 @@
 # vuetify-project
-
+To create this test app I followed the tutorial https://www.youtube.com/watch?v=GeUhmMJUFZQ&t=2219s
 > A Vue.js project
 
 ## Build Setup
